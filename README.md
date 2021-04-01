@@ -3,7 +3,6 @@
 Olá! Este é meu livro de receitas :wave:
 
 - **Lasanha à Bolonhesa**
-
 - **Petit Gateau**
-
-  
+- **Pudim**
+- **Torta de Frango**
